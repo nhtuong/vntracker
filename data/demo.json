@@ -1,0 +1,8 @@
+{"markers":
+[ 
+{ "id":"1","address":"7 avenue Vélasquez, 75008 - Paris", "title":"Objectif Viet Nam", "content":"Photographies de l'Ecole française d'Extrême-­‐Orient","tag": "History","image": "http://google-maps-icons.googlecode.com/files/photo.png","web":"http://www.cernuschi.paris.fr/fr/expositions/objectif-vietnam"},
+{ "id":"2","address":"9 avenue Vélasquez, 75008 - Paris", "title":"Objectif Viet Nam", "content":"Photographies de l'Ecole française d'Extrême-­‐Orient","tag": "History","image": "http://google-maps-icons.googlecode.com/files/photo.png","web":"http://www.cernuschi.paris.fr/fr/expositions/objectif-vietnam"},
+{ "id":"3","address":"89 Avenue de Choisy, 75013 Paris", "title":"Voyage sur le Vietnam", "content":"Salon de voyage sur le Vietnam - Maison de l'Indochine, Paris","tag": "Politics,Travel","image": "http://google-maps-icons.googlecode.com/files/beach.png","web":"http://www.indochine-paris.com/"},
+{ "id":"4","address":"86 Avenue de Choisy, 75013 Paris", "title":"Voyage sur le Vietnam", "content":"Salon de voyage sur le Vietnam - Maison de l'Indochine, Paris","tag": "Geography,Travel","image": "http://google-maps-icons.googlecode.com/files/beach.png","web":"http://www.indochine-paris.com/"}
+]
+}

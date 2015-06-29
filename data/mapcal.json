@@ -1,0 +1,149 @@
+﻿{"markers":
+	[ 
+		
+		
+		{"id":"19",
+		"address":"NGUYEN LN, POLLOCKSVILLE, NC 28573-9370", 
+		"tag": "Figure",
+		"wiki":"Nguyen","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+		
+		{"id":"18",
+		"address":"Passage de Dong Da, 94600 Choisy-Le-Roi, France", 
+		"tag": "Figure",
+		"wiki":"Đống_Đa_District","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+		
+		{"id":"17",
+		"address":"Rue Professeur Maximilien Nguyen Phung, 34090 Montpellier, France", 
+		"tag": "Figure",
+		"wiki":"","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},		
+		
+		{"id":"14",
+		"address":"Rue de Saigon, 75116 Paris, France", 
+		"tag": "Indochina",
+		"wiki":"Ho_Chi_Minh_City","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+
+		{"id":"15",
+		"address":"Allée Ho Chi Minh, 69700 Givors, France", 
+		"tag": "Figure",
+		"wiki":"Ho_Chi_Minh","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+
+		{"id":"16",
+		"address":"Avenue Ho Chi Minh, 56600 Lanester, France", 
+		"tag": "Figure",
+		"wiki":"Ho_Chi_Minh","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"}		,				
+
+		{"id":"1",
+		"address":"Rue de Ceux de Dien Bien Phou, Parc Naturel Régional du Luberon, 84160 Cadenet, France", 
+		"tag": "Indochina",
+		"wiki":"Điện_Biên_Phủ","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"2",
+		"address":"Rue de Son Tay, 33800 Bordeaux, France", 
+		"tag": "Indochina",
+		"wiki":"Sơn_Tây_District,_Quảng_Ngãi","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"3",
+		"address":"Rue de Son Tay, 69100 Villeurbarnne, France", 
+		"tag": "Indochina",
+		"wiki":"Sơn_Tây_District,_Quảng_Ngãi","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"4",
+		"address":"Rue de SonTay, 75116 Paris, France", 
+		"tag": "Indochina",
+		"wiki":"Sơn_Tây_District,_Quảng_Ngãi","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"4",
+		"address":"Rue de SonTay, 13100 Aix-en-Provence, France", 
+		"tag": "Indochina",
+		"wiki":"Sơn_Tây_District,_Quảng_Ngãi","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"5",
+		"address":"Rue de Son Tay, 32000 Auch, France", 
+		"tag": "Indochina",
+		"wiki":"Sơn_Tây_District,_Quảng_Ngãi","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"6",
+		"address":"Rue Bac Ninh, 33800 Bordeaux, France", 
+		"tag": "Indochina",
+		"wiki":"Bắc_Ninh","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},
+		
+		{"id":"7",
+		"address":"Rue Bac Ninh, 25000 Besançon, France", 
+		"tag": "Indochina",
+		"wiki":"Bắc_Ninh","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+
+		{"id":"8",
+		"address":"Place de Haiphong, 02000 Chavignon, France", 
+		"tag": "Indochina",
+		"wiki":"Haiphong","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+
+		{"id":"9",
+		"address":"Rue d'Haiphong, 13012 Marseille, France", 
+		"tag": "Indochina",
+		"wiki":"Haiphong","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+
+		{"id":"10",
+		"address":"Rue de Lang Son, 62800 Liévin, France", 
+		"tag": "Indochina",
+		"wiki":"Lạng_Sơn","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"},	
+
+		{"id":"11",
+		"address":"Rue de la Tourane, 66120 Targassonne, France", 
+		"tag": "Indochina",
+		"wiki":"Da_Nang","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"}	,	
+
+		{"id":"12",
+		"address":"Avenue de Tonkin, 64140 Billière, France", 
+		"tag": "Indochina",
+		"wiki":"Tonkin","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"}	,	
+
+		{"id":"13",
+		"address":"Avenue d'Annam, 06400 Cannes, France", 
+		"tag": "Indochina",
+		"wiki":"Annam","content":"",		
+		"image": "img/vnmarker.png",
+		"web":"#"}
+	
+
+		
+	
+	]
+}
